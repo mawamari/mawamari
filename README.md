@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mara Kim</h1>
 <h3 align="center">Curious, nocturnal artificer (laced in earl grey tea) dabbling in the art of software development. 🦄 Passionate in all things pristine and aesthetic, I find it an honor in contributing to the tech industry utilizing my creativity within complex lines of code, experimenting in augmented reality, and seamless documentation with technical writing.</h3>
-<img align="right" alt="Coding" width="400" src="https://s1.zerochan.net/Cloud.Strife.600.3017016.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/FJmgAph.png">
 
 - 🌱 I’m currently learning **Python & Comptia Security+**
 
