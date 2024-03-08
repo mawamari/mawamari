@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# 💫 About Me:
+Curious, nocturnal artificer (laced in earl grey tea) dabbling in the art of software development.<br><br>🦄 Passionate in all things pristine and aesthetic, I find it an honor in contributing to the tech industry utilizing my creativity within complex lines of code, experimenting in augmented reality, and seamless documentation with technical writing.
+
+
 <!--
 **mawamari/mawamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
